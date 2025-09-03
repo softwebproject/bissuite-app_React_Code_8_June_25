@@ -1,14 +1,14 @@
 "use client";
 import React, { useState, useEffect, useRef } from "react";
-import icon1 from "public/leanicon/LeanIcon1.png";
-import icon2 from "public/leanicon/LeanIcon2.png";
-import icon3 from "public/leanicon/LeanIcon3.png";
-import icon4 from "public/leanicon/LeanIcon4.png";
-import icon5 from "public/leanicon/LeanIcon5.png";
-import icon7 from "public/leanicon/LeanIcon7.png";
-import icon8 from "public/leanicon/LeanIcon8.png";
-import icon9 from "public/leanicon/LeanIcon9.png";
-import icon10 from "public/leanicon/LeanIcon10.png";
+import icon1 from "leanicon/LeanIcon1.png";
+import icon2 from "leanicon/LeanIcon2.png";
+import icon3 from "leanicon/LeanIcon3.png";
+import icon4 from "leanicon/LeanIcon4.png";
+import icon5 from "leanicon/LeanIcon5.png";
+import icon7 from "leanicon/LeanIcon7.png";
+import icon8 from "leanicon/LeanIcon8.png";
+import icon9 from "leanicon/LeanIcon9.png";
+import icon10 from "leanicon/LeanIcon10.png";
 import Card from "@/app/businessmodel/components/Card";
 import { 
   LMC, 
