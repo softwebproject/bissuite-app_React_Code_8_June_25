@@ -1,0 +1,4 @@
+.custom-select option:hover {
+  background-color: #16a34a; /* Tailwind green-600 equivalent */
+  color: white;
+}
